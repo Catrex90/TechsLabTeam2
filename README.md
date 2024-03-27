@@ -4,9 +4,7 @@
 This project is part of the Data Science Track from Techslab Düsseldorf Winterterm 2023/24
 
 Team Members:
-Cara-Linn Reusch (Data Science Track)
-Julia Krebbers (Data Science Track)
-Selinay Cengiz (Data Science Track)
+Cara, Julia, Selinay 
 
 
 # Abstract:
