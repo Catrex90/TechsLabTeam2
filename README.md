@@ -18,11 +18,15 @@ The project was based on the following Kaggle project (1); however, we conducted
 
 # References:
 (1) Hotel project based on kaggle project from Nitesh Yadav, Title: Hotel Booking Prediction (99.5% acc): https://www.kaggle.com/code/niteshyadav3103/hotel-booking-prediction-99-5-acc, Licence: Apache License 2.0
+
 (2) Happiness Dataset provided on kaggle by Sustainable Development Solutions Network (Owner) and Abigail Larion (Admin), Title: World Happiness Report - Happiness scored according to economic production, social support, etc.: https://www.kaggle.com/datasets/unsdsn/world-happiness/data, Licence: CC0: Public Domain
+
 (3) Hotel dataset provided on kaggle by Jesse Mostipak, Title: Hotel booking demand:
 https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand, Licence: Attribution 4.0 International (CC BY 4.0)
 Originating from the paper: Hotel Booking Demand Datasets: Nuno Antonio, Ana Almeida, Luis Nunes, Data in Brief, 2019. Downloaded from  https://www.sciencedirect.com/science/article/pii/S2352340918315191  and cleaned by Thomas Mock and Antoine Bichat as part of #TidyTuesday: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-11/readme.md
+
 (4) Geopandas diagram based on Quisl, April 14, 2021, https://quisl.de/b/wie-du-weltkarten-mit-python-erstellst-geopandas-in-vier-schritten/
+
 (5) Map made with Natural Earth. Free vector and raster map data @ naturalearthdata.com.
 
 # How to use our Code:
