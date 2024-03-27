@@ -1,7 +1,7 @@
 # Project Scope - Techlabs Team 2
 # HappyStay - Exploring Hotel Data for a Smile
 
-This project is part of the Data Science Track from Techslab Düsseldorf Winterterm 2023/24
+This project is part of the 'Digital Shaper Program' in the 'Data Science Track' from Techlabs Düsseldorf Winterterm 2023/24
 
 Team Members:
 Cara, Julia, Selinay 
@@ -26,4 +26,4 @@ Geopandas diagram based on Quisl, April 14, 2021, https://quisl.de/b/wie-du-welt
 Map made with Natural Earth. Free vector and raster map data @ naturalearthdata.com.
 
 # How to use our Code:
-All datasets used can be found in the folder 'Data'. Within the folder 'Code' you find all the necessary Jupyter Notebooks to understand our individual methodological analyses of the data. We have created a Jupyter Notebook for each individual question. This makes it possible to look at all the individual research focal points one after the other or just one specific aspect. Each notebook contains a list of all the relevant Python libraries needed to follow our analisis and visualisation of each problem. In addition, all plotted graphs and merged datasets can be found in the folders figure 'Code/Output/Figures' and 'Data/Edited'.  
+All datasets used can be found in the folder 'Data'. Within the folder 'Code' you find all the necessary Jupyter Notebooks to understand our individual methodological analyses of the data. We have created a Jupyter Notebook for each individual question. This makes it possible to look at all the individual research focal points one after the other or just one specific aspect. Each notebook contains a list of all the relevant Python libraries needed to follow our analysis and visualisation of each problem. All path specifications for the individual files must be adapted to your own system. In addition, all plotted graphs and merged datasets can be found in the folders 'Code/Output/Figures' and 'Data/Edited'.  
