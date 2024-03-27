@@ -2,6 +2,7 @@
 # HappyStay - Exploring Hotel Data for a Smile
 
 This project is part of the Data Science Track from Techslab Düsseldorf Winterterm 2013/24
+
 Team Members:
 Cara-Linn Reusch (Data Science Track)
 Julia Krebbers (Data Science Track)
