@@ -36,3 +36,5 @@ Originating from the paper: Hotel Booking Demand Datasets: Nuno Antonio, Ana Alm
 Geopandas diagram based on Quisl, April 14, 2021, https://quisl.de/b/wie-du-weltkarten-mit-python-erstellst-geopandas-in-vier-schritten/
 Map made with Natural Earth. Free vector and raster map data @ naturalearthdata.com.
 
+#How to use our Code:
+All datasets used can be found in the folder 'Data'. Within the folder 'Code' you find all the necessary Jupyter Notebooks to understand our individual methodological analyses of the data. We have created a Jupyter Notebook for each individual question. This makes it possible to look at all the individual research focal points one after the other or just one specific aspect. In addition, all plotted graphs and merged datasets can be found in the folders figure 'Code/Output/Figures' and 'Data/Edited'.  
