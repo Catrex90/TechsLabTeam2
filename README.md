@@ -1,7 +1,7 @@
 # Project Scope - Techlabs Team 2
 # HappyStay - Exploring Hotel Data for a Smile
 
-This project is part of the Data Science Track from Techslab Düsseldorf Winterterm 2013/24
+This project is part of the Data Science Track from Techslab Düsseldorf Winterterm 2023/24
 
 Team Members:
 Cara-Linn Reusch (Data Science Track)
